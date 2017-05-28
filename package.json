@@ -1,0 +1,13 @@
+{
+  "name": "node_docker",
+  "version": "1.0.1",
+  "description": "Nodejs",
+  "author": "First Last <tyler@tytoons.com>",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "express": "4.15"
+  }
+}
